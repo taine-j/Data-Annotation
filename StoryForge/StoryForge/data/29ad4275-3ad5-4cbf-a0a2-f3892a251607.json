@@ -1,0 +1,1 @@
+{"id": "29ad4275-3ad5-4cbf-a0a2-f3892a251607", "name": "My Story", "category": "Fantasy", "series": "My Series", "content": "This is the story content.", "decision_points": [{"text": "Do you want to go left or right?", "outcome_ids": ["left", "right"]}]}

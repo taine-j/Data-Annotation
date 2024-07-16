@@ -1,0 +1,4 @@
+node_modules
+pythonTestEnviroment
+.env
+bookSimilarityChecker
